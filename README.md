@@ -7,7 +7,7 @@
 ## Overview
 A program that checks whether two simple graphs are isomorphic.
 ## How to use
-The input to the program is the number of nodes of a graph and the neighboring nodes of each node. The input should be provided for the first and the second graph.
+The input to the program is the number of nodes of a graph and the neighboring nodes of each node separated by a space. The input should be provided for the first and the second graphs.
 
 ![image](https://github.com/Ahsodecas/Isomorphic_graphs/assets/96869680/2eefeade-6db4-4c1f-90b3-a7ce8f46c9e7)
 
